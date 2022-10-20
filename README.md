@@ -6,4 +6,4 @@ Your assignment this week is to create a tutorial that explains how a specific r
 ![Webpage screenshot](screenshot.png)
 
 ## Github link
-[Live-link](https://christilato.github.io/Challenge2/)
+[Live-link](https://github.com/Christilato/Matching-An-Email-REGEX)
